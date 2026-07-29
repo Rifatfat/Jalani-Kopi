@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+dist
+build
+.env
+.env*.local
+*.log
+*.tsbuildinfo
+.vercel
+coverage
+
+# Local source assets and unused campaign images
+/Jalani-Coffee-8-Menu-Assets/
+/public/images/hero-coffee.png
+/public/images/menu-campaign.png
