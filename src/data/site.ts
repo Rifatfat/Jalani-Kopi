@@ -35,7 +35,8 @@ export interface FranchiseMetric {
 export const siteConfig = {
   name: "JALANI KOPI",
   tagline: "Kopi dan minuman favorit untuk nemenin hari kamu.",
-  whatsappUrl: "https://wa.me/6282310306504",
+  whatsappUrl:
+    "https://wa.me/6282310306504?text=Halo%20JALANI%20KOPI%2C%20saya%20ingin%20memesan%20minuman.%20Boleh%20minta%20menu%20dan%20info%20pemesanan%3F",
   franchiseUrl: "https://wa.me/6282310306504?text=Halo%20JALANI%20KOPI%2C%20saya%20tertarik%20dengan%20informasi%20franchise.",
   instagramUrl: "https://www.instagram.com/jalani_coffee/",
   locationUrl: "https://www.google.com/maps/search/?api=1&query=Condet%2C%20Jakarta%20Timur",
